@@ -47,7 +47,8 @@ Sigue estos pasos para poner en marcha el proyecto en tu servidor local (como WA
 ## 🛠 Tecnologías Utilizadas
 
 *   PHP 7+
-*   MySQL / MariaDB
+*   MySQL / phpMyAdmin
 *   HTML5 / CSS3
 *   Bootstrap 3.3.7
+
 *   jQuery
